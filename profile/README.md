@@ -9,7 +9,7 @@
 
 - 💼 Working as a **Full-Stack Development**
 - 💬 Ask me about **Go, Rust， Python, JavaScript, and Web Development**
-- 📫 Reach me at **[uiueov@gmail.com](mailto:developer@byteoxo.io)**
+- 📫 Reach me at **[byteoxxo@gmail.com](mailto:byteoxxo@gmail.com)**
 
 ## 🛠️ Skills & Tools  
 
