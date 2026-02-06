@@ -5,7 +5,7 @@
 ## 🚀 About Me
 
 - 💼 I like developing **General Purpose Tools**, **Native Desktop and Mobile Application**, and Web
-- 🏆 Competitive Programming: **Codeforces**, **AtCoder**, **ICPC Regional**
+- 🏆 Competitive Programming: **ICPC Regional**, **Codeforces**, **AtCoder**
 - 💬 Ask me about **Go, Lua, Rust， Python, JavaScript, and Web Development**
 - 📫 Reach me at **[byteoxxo@gmail.com](mailto:byteoxxo@gmail.com)**
 
